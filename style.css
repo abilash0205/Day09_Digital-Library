@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    border: 1px solid black;
+    width: 300px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+form {
+    padding: 8px 0px;
+}
+
+input[type="text"],
+input[type="password"] {
+    width: 200px;
+}
+
+.button {
+    cursor: pointer;
+    padding: 3px;
+    color: white;
+    background-color: rgb(83, 150, 172);
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+.signup {
+    width: 150px;
+    height: 25px;
+    color: white;
+    background-color: green;
+    margin-bottom: 11px;
+    cursor: pointer;
+}
+
+.name {
+    text-align: center;
+    padding: 55px;
+}
+
